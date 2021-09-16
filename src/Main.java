@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Code for the feature branch");
 
         System.out.println("Monkey business");
+
+        System.out.println("Change in master");
     }
 }

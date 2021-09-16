@@ -8,5 +8,8 @@ public class Main {
         System.out.println("Monkey business");
 
         System.out.println("Change in master");
+
+        System.out.println("another change");
+        System.out.println("two files");
     }
 }

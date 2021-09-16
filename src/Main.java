@@ -1,15 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Yo");
-
-        System.out.println("Code for the feature branch");
-
-        System.out.println("Monkey business");
-
-        System.out.println("Change in master");
-
-        System.out.println("another change");
-        System.out.println("two files");
+        System.out.println("Fear of god has been placed in their hearts.");
     }
 }
